@@ -1,0 +1,17 @@
+1. The total hours I have spent on this assignment is difficult to assess
+   there were many rabbit holes that I ended up in. But if I had to 
+   ballpark the work itself I would say 8 hours. It was lengthy.
+
+2. I used your lectures to get rolling, and then I hit google pretty hard.
+   stackoverflow, w3schools, and various other websites.
+
+3. I never asked anyone for any help with this assignment. Was having too
+   much fun researching evertyhing.
+
+4. There was no intstructors that I have asked for any help.
+
+5. I feel confident that I could complete another one of these. 
+   Task #1 was time consuming to get familiar with the different
+   global objects available with Node.js. Ther is still alot to be
+   read and understood. I would say difficulty level was a 3/5.
+   Task #2 was roughly the same same 3/5 difficulty level.
